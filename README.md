@@ -1,4 +1,4 @@
-This software is able to perform the parentage analysis in the presence of both null alleles and inbreeding (close inbreeding or population subdivision). 
+This software is able to perform the parentage analysis in the presence of both null alleles and inbreeding. 
 
 Downloads:
 
