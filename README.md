@@ -9,7 +9,7 @@ https://github.com/huangkang1987/parentage/raw/master/parentage_1.0.zip
 
 Citation:
 
-Huang K, Mi R, Dunn DW, Wang TC, Li BG (2018) Performing Parentage Analysis in the Presence of Inbreeding and Null Alleles. Genetics,  https://doi.org/10.1534/genetics.118.301592
+Huang K, Mi R, Dunn DW, Wang TC, Li BG (2018) Performing Parentage Analysis in the Presence of Inbreeding and Null Alleles. Genetics,  https://doi.org/10.1534/genetics.118.301592  PDF:https://github.com/huangkang1987/parentage/raw/master/1467.full.pdf
 
 Bug report and suggestions
 
