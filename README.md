@@ -2,9 +2,13 @@ This software is able to perform the parentage analysis in the presence of both 
 
 Downloads:
 
-V1.0 for Windows with user manual and example dataset 
-(only support 64 bit platform because of large amount of memory usage)
+V1.2 64bit for Windows
+https://github.com/huangkang1987/parentage/raw/master/parentage_1.2.zip
 
+V1.1 64bit for Windows
+https://github.com/huangkang1987/parentage/raw/master/parentage_1.1.zip
+
+V1.0 64bit for Windows
 https://github.com/huangkang1987/parentage/raw/master/parentage_1.0.zip
 
 Citation:
