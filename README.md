@@ -3,7 +3,7 @@ This software is able to perform the parentage analysis in the presence of both 
 Downloads:
 
 V1.1c 64bit for Windows
-https://github.com/huangkang1987/parentage/raw/master/parentage_1.1b.zip
+https://github.com/huangkang1987/parentage/raw/master/parentage_1.1c.zip
 
 V1.1b 64bit for Windows
 https://github.com/huangkang1987/parentage/raw/master/parentage_1.1b.zip
